@@ -1,2 +1,3 @@
-ham and eggs
-toust
+-monday ham and eggs
+-tuesday toust
+-friday nothing
