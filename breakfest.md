@@ -1,4 +1,5 @@
 -monday ham and eggs
 -tuesday toust
+-wednesday pizza
 -friday nothing
 -sunday beer and vodka
